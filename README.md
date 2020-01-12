@@ -1,2 +1,2 @@
-# Merhaba bu repository'imde Murat Özalp hocamın ışığından ve bir çok bu alanda katkı sağlamak adına uğraşan kişilerden kaynak edilinerek.
-# Paylaşacağım kodlara ulaşabileceksiniz.
+# Merhaba Murat Özalp hocamın ışığından ve Cihan Özcan gibi bir çok golang alanında katkı sağlamak adına uğraşan  kişiden kaynak edilinerek bu repoyu oluşturuyorum.
+# Umarım katkı sağlanır.

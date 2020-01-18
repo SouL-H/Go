@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sites version="1">
+    <site>
+        <Name>Google.com</Name>
+        <Description>Kişisel Blog</Description>
+        <Category>Blog</Category>
+    </site>
+    <site>
+        <Name>www.golang.org.tr</Name>
+        <Description>GoLang TR</Description>
+        <Category>Community</Category>
+    </site>
+</sites>

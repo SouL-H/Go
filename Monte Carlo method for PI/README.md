@@ -1,5 +1,5 @@
 
-# İçerik
+# Content
 MonteCarlo metodu ile PI Sayısı Tesbiti sağlayam uygulama.
 Random sayılar çarpımsal yöntem metodu ile oluşturulmuştur.
 

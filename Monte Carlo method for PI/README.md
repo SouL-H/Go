@@ -1,6 +1,9 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/voiceminingpsm/PSM/master/img/logo.png"  alt="Observer">
-</p>
 
-# GoLang dili ile MonteCarlo metodu ile PI Sayısı Tesbiti
-# Random sayılar çarpımsal yöntem metodu ile oluşturulmuştur.
+# İçerik
+MonteCarlo metodu ile PI Sayısı Tesbiti sağlayam uygulama.
+Random sayılar çarpımsal yöntem metodu ile oluşturulmuştur.
+
+# Input
+<p align="center">
+    <img src="https://raw.githubusercontent.com/SouL-H/Go/master/Monte%20Carlo%20method%20for%20PI/img/PI.png"  alt="Observer">
+</p>
